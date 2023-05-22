@@ -17,3 +17,18 @@ h2 {
 .group2 {
 	color: #eb2f96;
 }
+
+.mySpan {
+	/* 外间距 */
+	margin: 5px 10px;
+	/* 内间距 */
+	padding: 5px 10px;
+	/* 字体颜色 */
+	color: #fff;
+	/* 背景颜色 */
+	background-color: #13c2c2;
+	/* 圆角处理 */
+	border-radius: 5px;
+	/* 鼠标手样式 */
+	cursor: pointer;
+}
